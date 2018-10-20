@@ -2,7 +2,9 @@
 title: "HW05 - Factors and Figures" 
 author: "Kate Tyshchenko (Kate96)" 
 date: "October 19th 2018" 
-output: github_document
+output: 
+  github_document:
+  toc: yes
 ---
 
 ```{r load}
